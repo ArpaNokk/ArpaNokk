@@ -28,7 +28,7 @@ Este proceso se detalla más abajo:
 
 ###### _Experiencia Profesional:_
 Producción Musical - Atlantic Records
-- *Fecha de Inicio: /00/00/2021 - Fecha de Finalidad: Actualidad
+- Fecha de Inicio: /00/00/2021 - Fecha de Finalidad: Actualidad
 - **Productor Musical** en **Atlantic Records**, **discográfica** americana.
 
 ###### _Educación:_
