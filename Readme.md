@@ -41,7 +41,7 @@ Producción Musical - Atlantic Records
 - **Templanza.**
 - **Rapidez** en el trabajo.
 
-###### _Proyectos_
+###### _Proyectos:_
 Proyecto 1
 - **Comienzo** mi carrera como Productor Musical partiendo de la obtención de un título que acredita mis conocimientos. Esto lo hago a través de un contacto personal que tengo con una persona que trabaja en el mundo de la música.
 
@@ -51,7 +51,7 @@ Proyecto 2
 Proyecto 3
 - Recibo una solicitud de la empresa de **Atlantic Records** y empiezo a trabajar con ellos.
 
-###### _Idiomas_
+###### _Idiomas:_
 - **Idioma 1: Español - Nativo**
 - **Idioma 2: Inglés - B2**
 
