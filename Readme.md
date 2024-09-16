@@ -8,7 +8,7 @@ A continuación os explicaré cómo fue mi proceso para convertirme en Productor
 
 ![](https://img.shields.io/github/stars/pandao/editor.md.svg) ![](https://img.shields.io/github/forks/pandao/editor.md.svg) 
 
-###IMPORTANTE* mi camino hacia la Producción Musical:
+### IMPORTANTE* mi camino hacia la Producción Musical:
 
 |Fecha|Curiosidades|Conclusión|
 | --------| --------| --------|
