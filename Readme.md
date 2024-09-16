@@ -22,7 +22,7 @@ Este proceso se detalla más abajo:
 **Información personal sobre mí.**
 
 ###### _Información de Contacto:_
-- Correo Electrónico: **izanimportante@uncorreo.com
+- Correo Electrónico: izanortgar@gmail.com
 - Teléfono: +34 123 456 789
 - LinkedIn: No tengo
 
